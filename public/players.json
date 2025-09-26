@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playing_role": "Batter",
+    "batting_role": "Left-hand bat",
+    "bowling_role": "Right-arm off-break",
+    "price_usd": 35000,
+    "rating": 8.2,
+    "photo": "https://i.ibb.co.com/Mkq0GVpT/Tamim.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_role": "Left-hand bat",
+    "bowling_role": "Slow left-arm orthodox",
+    "price_usd": 60000,
+    "rating": 9.4,
+    "photo": "https://i.ibb.co.com/SXnbFJj7/sakib.jpg"
+  },
+  {
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "playing_role": "All-rounder",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm fast",
+    "price_usd": 75000,
+    "rating": 9.1,
+    "photo": "https://i.ibb.co.com/vv3tgjQf/Andre-Russel.jpg"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Left-arm fast-medium",
+    "price_usd": 40000,
+    "rating": 8.7,
+    "photo": "https://i.ibb.co.com/606YhZT2/mustafiz.jpg"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "playing_role": "Wicketkeeper-batter",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm off-break",
+    "price_usd": 30000,
+    "rating": 8.5,
+    "photo": "https://i.ibb.co.com/zhLk3Mr4/mushfiqur.jpg"
+  },
+  {
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "playing_role": "Wicketkeeper-batter",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm off-break",
+    "price_usd": 28000,
+    "rating": 8.3,
+    "photo": "https://i.ibb.co.com/qM5hc94b/liton.jpg"
+  },
+  {
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm off-spin",
+    "price_usd": 22000,
+    "rating": 8.0,
+    "photo": "https://i.ibb.co.com/QFmfLdV7/Mahmudullah.jpg"
+  },
+  {
+    "name": "Najmul Hossain Shanto",
+    "country": "Bangladesh",
+    "playing_role": "Batter",
+    "batting_role": "Left-hand bat",
+    "bowling_role": "Right-arm off-break",
+    "price_usd": 18000,
+    "rating": 7.9,
+    "photo": "https://i.ibb.co.com/YMTJfcv/Shanto.jpg"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_role": "Left-hand bat",
+    "bowling_role": "Right-arm medium",
+    "price_usd": 16000,
+    "rating": 7.5,
+    "photo": "https://i.ibb.co.com/Nn2zx87r/Somya.jpg"
+  },
+  {
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm fast-medium",
+    "price_usd": 20000,
+    "rating": 7.8,
+    "photo": "https://i.ibb.co.com/MyqQw5qk/Shaifuddin.jpg"
+  },
+  {
+    "name": "Shoriful Islam",
+    "country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Left-arm fast",
+    "price_usd": 24000,
+    "rating": 7.6,
+    "photo": "https://i.ibb.co.com/W4WpRjg7/Shoriful.jpg"
+  },
+  {
+    "name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "playing_role": "Batter",
+    "batting_role": "Right-hand bat",
+    "bowling_role": "Right-arm off-break",
+    "price_usd": 12000,
+    "rating": 7.4,
+    "photo": "https://i.ibb.co.com/HfBnJY2f/Towhid-Hridoy.jpg"
+  }
+]
